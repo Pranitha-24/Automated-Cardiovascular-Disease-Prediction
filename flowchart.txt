@@ -1,0 +1,47 @@
+1. Importing the packages
+2. Exploring the dataset 
+Heart Disease Data
+3. Data processing
+	- pandas dataframe
+	- Keras Dataframe
+	- Dropping unwanted column
+
+4. Visualization using seaborn & matplotlib
+5. Label Encoding using LabelEncoder
+6. Feature Selection - Honey Badger Optimization
+7. Splitting the data to train and test for Deep Learning 
+8. Building the model
+
+    RepTree Algorithm
+    SVM
+    Bagging Algorithm
+    ANN
+    J48
+    SC Algorithm
+    HBOM-DL
+    Stacking Classifier (RF + ET with LightGBM)
+
+9. Training and Building the model
+
+
+
+Flask Framework
+----------------
+ 
+10. Flask Framework with Sqlite for signup and signin
+11. Importing the packages
+12. User gives input as Feature Values 
+13. The given input is preprocessed for prediction
+14. Trained model is used for prediction
+15. Final outcome is displayed through frontend
+
+Dataset 
+----------
+https://www.kaggle.com/datasets/sid321axn/heart-statlog-cleveland-hungary-final 
+
+Extension
+----------
+In the base paper the author mentioned to use Heart Disease dataset Honey Badger Optimization with Hyper Optimization Deep Learning model and compare with ML models from which proposed model got 98% of accuracy,
+As an extension we applied an ensemble method  combining the predictions of multiple individual models to produce a more robust and accurate final prediction.
+However, we can further enhance the performance by exploring other ensemble techniques such as Stacking Classifier got 100% of accuracy,
+As an extension we can build the front end using the flask framework for user testing and with user authentication.
